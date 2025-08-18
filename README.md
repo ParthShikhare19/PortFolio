@@ -45,6 +45,4 @@ A personal portfolio website built with React, Vite, and Tailwind CSS. This site
 - Update your information in the relevant components in `src/components/`.
 - Replace images in `src/assets/` and `public/` as needed.
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
